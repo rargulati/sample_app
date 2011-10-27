@@ -18,7 +18,7 @@ end
 
 gem "autotest", "~> 4.4.6"
 gem "autotest-rails", "~> 4.1.1"
-gem 'spork', '0.9.0.rc8'
+gem 'spork', '0.9.0.rc8'	
 
 # Gems used only for assets and not required
 # in production environments by default.
